@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="xiaofei_weather" />
+    <version value="1" />
+
+    <list>
+        <mapping class="com.xiaofeiweather.android.db.Province" />
+        <mapping class="com.xiaofeiweather.android.db.City" />
+        <mapping class="com.xiaofeiweather.android.db.Country" />
+    </list>
+
+</litepal>
